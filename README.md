@@ -9,6 +9,15 @@
 - по ватсапу ![WhatsApp Badge](https://img.shields.io/badge/-79655078263-green?style=flat&logo=WhatsApp&logoColor=white) 
 - по почте [![Gmail Badge](https://img.shields.io/badge/-destroyman3@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:destroyman3@gmail.com)
 
+### 💻 Технологии:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="android" alt="android" width="40" height="40"/>&nbsp 
+</div>
+
 <!--
 **destroy-man/destroy-man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
