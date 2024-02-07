@@ -7,7 +7,7 @@
 Со мной можно связаться:
 - по телеграму [![Telegram Badge](https://img.shields.io/badge/-destroy_man-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/destroy_man)
 - по ватсапу ![WhatsApp Badge](https://img.shields.io/badge/-79655078263-green?style=flat&logo=WhatsApp&logoColor=white) 
-- по почте [![Gmail Badge](https://img.shields.io/badge/-GMail-red?style=flat&logo=Gmail&logoColor=white)](mailto:destroyman3@gmail.com)
+- по почте [![Gmail Badge](https://img.shields.io/badge/-destroyman3@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:destroyman3@gmail.com)
 
 <!--
 **destroy-man/destroy-man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
