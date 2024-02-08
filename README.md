@@ -9,11 +9,11 @@
 - по ватсапу ![WhatsApp Badge](https://img.shields.io/badge/-79655078263-green?style=flat&logo=WhatsApp&logoColor=white) 
 - по почте [![Gmail Badge](https://img.shields.io/badge/-destroyman3@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:destroyman3@gmail.com)
 
-### 💻 Технологии:
+### Технологии:
 
 Java, Kotlin, SQL, Android, Retrofit, Realm, Koin, Compose, Dagger, Hilt, RxJava, RxKotlin, JUnit, Mockito, Espresso, SQLite, Room, Android Jetpack, Coil, Glide, Picasso, Kotlin Coroutine
 
-### 🛠 Инструменты:
+### Инструменты:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="android studio" alt="android studio" width="40" height="40"/>&nbsp;
@@ -21,17 +21,17 @@ Java, Kotlin, SQL, Android, Retrofit, Realm, Koin, Compose, Dagger, Hilt, RxJava
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
 
-<!--
-**destroy-man/destroy-man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### GitHub статистика:
 
-Here are some ideas to get you started:
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=destroy-man&theme=ocean-gradient" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=destroy-man&layout=compact&theme=algolia" />
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=destroy-man)
