@@ -4,6 +4,10 @@
 
 Я Android разработчик. Начал изучать Android с мая 2020 года, когда начал работать над мобильным приложением в компании <a href="https://www.sitis.ru">ООО "Ситис"</a>, будучи Java - разработчиком. Приложение писал на Java с использованием Android Studio. После этого работал в <a href="https://pkbonline.ru">НАО ПКО "ПКБ"</a> на должности Android - разработчик. В ПКБ я уже использовал языки Java и Kotlin, в качестве среды разработки также использовал Android Studio. Android изучаю по различным курсам в интернете, <a href="https://developer.android.com">официальной документации Android</a>, читаю разные книжки, связанные с разработкой по Android. Также изучаю языки программирования Java и Kotlin. В данный момент нахожусь в поиске работы.
 
+<p align="center">
+ <img width="600" src="github-snake.svg" alt="snake"/>
+</p>
+
 Со мной можно связаться:
 - по телеграму [![Telegram Badge](https://img.shields.io/badge/-destroy_man-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/destroy_man)
 - по ватсапу ![WhatsApp Badge](https://img.shields.io/badge/-79655078263-green?style=flat&logo=WhatsApp&logoColor=white) 
