@@ -2,7 +2,7 @@
 
 ### About me:
 
-I am Android developer. I begin learn Android with May 2020 year, when begin work by mobile application at company <a href="https://www.sitis.ru">OOO "Sitis" (limited liability company)</a>, worked as Java developer. I writed application by Java with usage Android Studio as developepment environment. After i worked at <a href="https://pkbonline.ru">NAO PCO "FCB" (Non-public joint stock company Professional collection organization "First Client Bureau")</a> at position Android developer. At FCB i used Java and Kotlin, also used Android Studio as developepment environment. I learn Android by different courses in internet, <a href="https://developer.android.com">android official documentation</a>, read different books, related to development by Android. I also learn programming languages Java and Kotlin. I search job cirrently.
+I am Android developer. I begin learn Android with May 2020 year, when begin work by mobile application at company <a href="https://www.sitis.ru">OOO "Sitis" (limited liability company)</a>, worked as Java developer. I writed application by Java with usage Android Studio as developepment environment. After i worked at <a href="https://pkbonline.ru">NAO PCO "FCB" (non-public joint stock company professional collection organization "First Client Bureau")</a> at position Android developer. At FCB i used Java and Kotlin, also used Android Studio as developepment environment. I learn Android by different courses in internet, <a href="https://developer.android.com">android official documentation</a>, read different books, related to development by Android. I also learn programming languages Java and Kotlin. I search job cirrently.
 
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
