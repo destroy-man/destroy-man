@@ -11,7 +11,7 @@ You can contact me:
 
 ### Technologies:
 
-Java, Kotlin, SQL, Android, Retrofit, Realm, Koin, Compose, Dagger, Hilt, RxJava, RxKotlin, JUnit, Mockito, Espresso, SQLite, Room, Android Jetpack, Coil, Glide, Picasso, Kotlin Coroutine
+Java, Kotlin, SQL, Android, Retrofit, Realm, Koin, Dagger, Hilt, RxJava, RxKotlin, JUnit, Mockito, Espresso, SQLite, Room, Android Jetpack, Coil, Glide, Picasso, Kotlin Coroutine, Jetpack Compose
 
 ### Tools:
 
