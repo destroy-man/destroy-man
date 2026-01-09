@@ -26,7 +26,7 @@ Java, Kotlin, SQL, Android, Retrofit, Realm, Koin, Dagger, Hilt, RxJava, RxKotli
 <table>
   <tr>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=destroy-man&layout=compact&theme=algolia" />
+      <img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=destroy-man&layout=compact&theme=algolia" />
     </td>
   </tr>
 </table>
